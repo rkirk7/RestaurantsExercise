@@ -7,6 +7,4 @@ install:
 
 script:
   - npm run build
-
-  test:
-  -npm test
+    -npm test
